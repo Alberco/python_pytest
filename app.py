@@ -8,3 +8,6 @@ def multiplicar(x, y):
         return "resultado excelente"
     else:
         return None
+
+
+print(suma(2, 3))
